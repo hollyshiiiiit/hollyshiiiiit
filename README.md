@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @hollyshiiiiit
+저는 가천대학교 24학번 03년생 최태준 입니다.
+- 👀 I’m interested in ...
+저는 평소 그림그리기, 음악들으며 운동하기, 여러 종합 게임들을 하는것을 즐기고 있습니다. 그리고 따로 그림그리는 것과 관련되어 3D 모델링 이나 포토샵 관련한 작업에 많은 관심이 있습니다.
+- 🌱 I’m currently learning ...
+  저는 현재 대학에서 파이썬하고 이를 이용하여 여러 수학적 문제 그리고 교통 상황들의 물리학적 해결 등에 대하여 배우고 있습니다.
+- 💞️ I’m looking to collaborate on ...
+  저는 현재 포토샵을 배우고 있고 향후 3D 모델링 등을 배워 여러 게임이나 컨텐츠들을 만들어내고 싶습니다.
+- 📫 How to reach me ...
+- tjchoe@naver.com
+- 😄 Pronouns: ...
+  내 꼴리는 대로 산다
+- ⚡ Fun fact: ...
+-  딱히 없음!
+
+<!---
+hollyshiiiiit/hollyshiiiiit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
